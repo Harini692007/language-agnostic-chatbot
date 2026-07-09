@@ -1,0 +1,11 @@
+# Polyglot Chat
+
+> A language-agnostic AI chatbot that detects your language and replies naturally, with threaded cloud-backed conversations.
+
+Chat in any language. The assistant auto-detects the language you write in and responds in the same language, and can translate on request.
+
+## Pages
+
+- [Home](/): Landing page with feature overview and entry to the chat.
+- [Chat](/chat): Authenticated chat interface. New visitors are redirected to sign in.
+- [Sign in](/auth): Email/password and Google sign-in page.
